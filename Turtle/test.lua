@@ -13,3 +13,4 @@ for i = 1, 2 do
 	turtle.forward()
 end
 
+print(completeEnv[1][1].name)
